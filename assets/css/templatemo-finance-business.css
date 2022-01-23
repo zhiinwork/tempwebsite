@@ -1228,9 +1228,6 @@ footer .contact-form button.filled-button:hover {
 
 /* Responsive Style */
 @media (max-width: 768px) {
-	.sub-header {
-		display: none;
-	}
 	.Modern-Slider .item h6 {
 	  margin-bottom: 15px;
 	  font-size: 18px;
